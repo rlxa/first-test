@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+My first testing of Github Pages! I'm testing it out with the Cayman theme first. Once I played quite enough with it I'll go make my own. Not sure how it will work but uh... yeah. Learn as we go. LOL let's do this!
+
 You can use the [editor on GitHub](https://github.com/rlxa/first-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
